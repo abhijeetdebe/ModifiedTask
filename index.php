@@ -1,11 +1,11 @@
 <html>
 
 <head>
-<title>Login1 Example / PHP Submit Page</title>
+<title>Login1 Example</title>
 <style>
 body  { font-family:Verdana;
-        color:coral;
-        background-color:aqua; }
+        color:aqua;
+        background-color:orange; }
 input { font-family:Verdana; width="1in"; }
 td    { text-align:center; }
 </style>
