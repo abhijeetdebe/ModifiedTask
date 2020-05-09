@@ -5,7 +5,7 @@
 <style>
 body  { font-family:Verdana;
         color:coral;
-        background-color:aliceblue; }
+        background-color:aqua; }
 input { font-family:Verdana; width="1in"; }
 td    { text-align:center; }
 </style>
