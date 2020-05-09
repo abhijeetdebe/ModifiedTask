@@ -4,7 +4,7 @@
 <title>Login1 Example / PHP Submit Page</title>
 <style>
 body  { font-family:Verdana;
-        color:maroon;
+        color:coral;
         background-color:aliceblue; }
 input { font-family:Verdana; width="1in"; }
 td    { text-align:center; }
